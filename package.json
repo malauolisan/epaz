@@ -14,7 +14,7 @@
   "scripts": {
     "build": "react-scripts build"  // CRA
     // OU
-    "build": "vite build"  // Vite
+    //"build": "vite build"  // Vite
   }
 }
 
