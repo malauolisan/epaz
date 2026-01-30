@@ -10,3 +10,11 @@
   "author": "E-PAZ",
   "license": "MIT"
 }
+{
+  "scripts": {
+    "build": "react-scripts build"  // CRA
+    // OU
+    "build": "vite build"  // Vite
+  }
+}
+
