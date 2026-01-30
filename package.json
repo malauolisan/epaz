@@ -1,13 +1,1 @@
-{
-  "name": "meu-projeto",
-  "version": "1.0.0",
-  "license": "MIT",
-  "scripts": {
-    "build": "react-scripts build",
-    "start": "react-scripts start"
-  },
-  "dependencies": {
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0"
-  }
-}
+{\n  "name": "meu-projeto",\n  "version": "1.0.0",\n  "license": "MIT",\n  "scripts": {\n    "build": "react-scripts build",\n    "start": "react-scripts start"\n  },\n  "dependencies": {\n    "react": "^18.0.0",\n    "react-dom": "^18.0.0"\n  }\n}
