@@ -1,0 +1,12 @@
+{
+  "name": "e-paz-landing-page",
+  "version": "1.0.0",
+  "description": "Landing Page E-PAZ - Educação Pela Paz",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'No build step required for static ESM'"
+  },
+  "keywords": [],
+  "author": "E-PAZ",
+  "license": "MIT"
+}
