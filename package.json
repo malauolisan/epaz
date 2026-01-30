@@ -1,20 +1,13 @@
 {
-  "name": "e-paz-landing-page",
+  "name": "meu-projeto",
   "version": "1.0.0",
-  "description": "Landing Page E-PAZ - Educação Pela Paz",
+  "license": "MIT",
   "scripts": {
-    "start": "serve .",
-    "build": "echo 'No build step required for static ESM'"
+    "build": "react-scripts build",
+    "start": "react-scripts start"
   },
-  "keywords": [],
-  "author": "E-PAZ",
-  "license": "MIT"
-}
-{
-  "scripts": {
-    "build": "react-scripts build"  // CRA
-    // OU
-    //"build": "vite build"  // Vite
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
   }
 }
-
